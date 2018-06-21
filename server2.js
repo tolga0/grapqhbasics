@@ -22,23 +22,23 @@ var schema = buildSchema(`
 var customersData = [
     {
         id: 1,
-        name: 'The Complete Node.js Developer Course',
-        surname: 'Andrew Mead, Rob Percival',
-        password: 'Learn Node.js by building real-world applications with Node, Express, MongoDB, Mocha, and more!',
+        name: 'Tolga',
+        surname: 'Sariuslu',
+        password: '123456',
 
     },
     {
         id: 2,
-        name: 'Node.js, Express & MongoDB Dev to Deployment',
-        surname: 'Brad Traversy',
-        password: 'Learn by example building & deploying real-world Node.js applications from absolute scratch',
+        name: 'Ender',
+        surname: 'Kelleci',
+        password: '123456',
         
     },
     {
         id: 3,
-        name: 'JavaScript: Understanding The Weird Parts',
-        surname: 'Anthony Alicea',
-        password: 'An advanced JavaScript course for everyone! Scope, closures, prototypes, this, build your own framework, and more.',
+        name: 'Burcu',
+        surname: 'Yilmazel',
+        password: '987654',
         
     }
 ]
